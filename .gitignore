@@ -1,0 +1,12 @@
+#Files to be ignored when committing to git.
+#For learning purposes no template is used.
+
+#Matlab scripts:
+*.m
+
+#Test files
+test*
+
+#Pdfs - The user can generate plots locally from the code, while the rights to 
+#the lecture slides belongs to DTU.
+*.pdf
