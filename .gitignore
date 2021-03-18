@@ -13,3 +13,6 @@ test*
 
 #Zip files
 *.zip
+
+#Folder with campusnet file, CN
+cn
